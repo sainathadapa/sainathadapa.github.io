@@ -2,45 +2,29 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+# About the blog
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+In this blog, I frequently write about the scripts that I create, either to automate stuff on my computer, or to improve my productivity. I am a Data Scientist by profession, and so I also write posts related to that field.
 
-<h2>Skills</h2>
+---
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+Some of my projects (or that I have contributed to):
+- **[stubthat](https://github.com/sainathadapa/stubthat)** : Stubbing framework for R
+- **[i3-wm-multi-disp-scripts](https://github.com/sainathadapa/i3-wm-multi-disp-scripts)** : Scripts to naviage a multi-display setup in I3 tiling window manager
+- **[ggthemr](https://github.com/cttobin/ggthemr)** : Themes for ggplot2. I'm not the author of the package although I maintain it at the moment.
+- **[ogdindiar](https://github.com/steadyfish/ogdindiar)**: R package to access data from Open Government Data Platform - India
 
-<h2>Projects</h2>
+<br>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+Kaggle competitions code:
+- **[Carvana Image Masking Challenge](https://github.com/sainathadapa/kaggle-carvana-image-masking-challenge)** : Top 15% percent
+- **[Invasive Species Monitoring](https://github.com/sainathadapa/kaggle-invasive-species-monitoring)** : 6th position
+
+---
+
+If you want to reach out, feel free to contact me via [Twitter](https://twitter.com/sainathadapa) or [LinkedIn](https://linkedin.com/in/sainathadapa).
+
+<br>
+
+Source code of this blog is at [github.com/sainathadapa/sainathadapa.github.io](https://github.com/sainathadapa/sainathadapa.github.io). This blog uses the 'Indigo' template by Sérgio Kopplin (https://github.com/sergiokopplin/indigo, MIT License). My work in this blog is shared under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
