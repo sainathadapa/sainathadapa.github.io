@@ -14,6 +14,16 @@ author: sainathadapa
 
 <div class="breaker"></div>
 
+### 2018-04-30 Crude implementation of dplyr's glimpse function in Python
+I like the R's `str` function, or better the dplyr's `glimpse` function. I tried to replicate most of the functionality in this function: [gist.github.com/sainathadapa/08c1028c92684fe1ec89ecb5d5629a57](https://gist.github.com/sainathadapa/08c1028c92684fe1ec89ecb5d5629a57). Sample output from the function:
+```
+In [3]: df = pd.DataFrame({'var1': [1, 2, 3], 'var2': ['a', 'b', 'c']})
+In [5]: glimpse(df)
+Shape:  (3, 2)
+var1 int64  0 NAs : 1, 2, 3
+var2 object 0 NAs : a, b, c
+```
+
 ### 2017-04-05 Statewise distribution of Top 100 Engineering Institutions
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Statewise distribution of Top 100 Engineering Institutions<a href="https://t.co/cWlsMDdcq2">https://t.co/cWlsMDdcq2</a> <a href="https://t.co/9hr9FGt8ab">pic.twitter.com/9hr9FGt8ab</a></p>&mdash; Sainath Adapa (@sainathadapa) <a href="https://twitter.com/sainathadapa/status/849608950601461760">April 5, 2017</a></blockquote>
