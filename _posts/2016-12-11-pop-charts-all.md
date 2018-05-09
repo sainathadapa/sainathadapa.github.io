@@ -11,6 +11,9 @@ category: blog
 headerImage: false
 author: sainathadapa
 ---
+
+[See this post for more details.](/blog/population-pyramids/)
+
 #### Andaman and Nicobar Islands
 <a href="/images/pop/ANDAMAN & NICOBAR ISLAND-1.svg" target="_blank" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/pop/ANDAMAN & NICOBAR ISLAND-1.svg" alt="image" /></a>
 <a href="/images/pop/ANDAMAN & NICOBAR ISLAND-2.svg" target="_blank" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/pop/ANDAMAN & NICOBAR ISLAND-2.svg" alt="image" /></a>
@@ -220,3 +223,4 @@ author: sainathadapa
 <a href="/images/pop/WEST BENGAL-3.svg" target="_blank" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/pop/WEST BENGAL-3.svg" alt="image" /></a>
 <p style="clear: both;" />
 
+*Post updated on 2018-05-08*
