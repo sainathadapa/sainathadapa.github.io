@@ -21,7 +21,7 @@ url: https://sainathadapa.github.io
 permalink: /:categories/:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-72325358-1'
+analytics-google:
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
