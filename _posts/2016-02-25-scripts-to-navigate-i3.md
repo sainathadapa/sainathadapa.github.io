@@ -4,9 +4,7 @@ title: "Scripts to navigate I3 WM in a multi-monitor setup"
 description: "github.com/sainathadapa/i3-project-focus-workflow"
 category: blog
 tag:
-  - I3
   - I3WM
-  - coffeescript
   - nodejs
 author: sainathadapa
 headerImage: false

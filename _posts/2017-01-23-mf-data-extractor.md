@@ -4,10 +4,8 @@ title: "MF Statement data extractor"
 headerImage: false
 author: sainathadapa
 tag:
-  - R
   - rstats
-  - mf
-  - tabulizer
+  - finance
 category: blog
 description: "Script to extract data from the Consolidated Mutual Fund statement given by CAMS"
 ---

@@ -4,12 +4,8 @@ title: "Package update: stubthat v1.0.0"
 description: "Changelog and the new API of stubthat"
 category: blog
 tag:
-  - R
   - rstats
-  - stub
-  - mock
   - unittest
-  - stubthat
 headerImage: false
 author: sainathadapa
 ---

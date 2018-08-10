@@ -6,7 +6,6 @@ headerImage: false
 author: sainathadapa
 category: blog
 tag:
-  - I3
   - I3WM
 share: true
 ---

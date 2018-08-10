@@ -4,9 +4,7 @@ title: "Talk - Search and Download datasets from Data.gov.in"
 headerImage: false
 author: sainathadapa
 tag:
-  - R
   - rstats
-  - ogdindiar
   - opendata
 category: blog
 description: "Introduction to ogdindiar package"

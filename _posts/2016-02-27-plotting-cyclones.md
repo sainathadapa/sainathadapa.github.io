@@ -4,11 +4,8 @@ title: "Cyclones in The Bay of Bengal"
 description: "Visualizing cyclone paths, intensity and landfall locations"
 category: blog
 tag:
-  - R
   - rstats
-  - ggmap
   - ggplot
-  - cyclones
 author: sainathadapa
 headerImage: false
 ---

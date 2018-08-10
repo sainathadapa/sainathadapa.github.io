@@ -2,11 +2,9 @@
 layout: post
 title: "Population pyramid charts for the States of India (Gallery)"
 tag:
-  - R
   - rstats
-  - population
   - demographics
-  - india
+  - ggplot
 category: blog
 headerImage: false
 author: sainathadapa

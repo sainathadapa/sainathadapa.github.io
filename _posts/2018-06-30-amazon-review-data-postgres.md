@@ -5,8 +5,6 @@ headerImage: false
 author: sainathadapa
 tag:
   - sql
-  - open-data
-  - code-dump
 category: blog
 description: ""
 ---

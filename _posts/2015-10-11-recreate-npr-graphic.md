@@ -4,7 +4,6 @@ title: "Recreate a NPR graphic in ggplot"
 description: "Attempt at recreating a D3 plot (with splines and multiple lines of text)"
 category: blog
 tag:
-  - R
   - rstats
   - ggplot
 headerImage: false

@@ -5,9 +5,7 @@ category: blog
 headerImage: false
 author: sainathadapa
 tag: 
-  - R
   - rstats
-  - production
 description: "Tips to use R in a production environment"
 ---
 

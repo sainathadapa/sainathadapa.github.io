@@ -7,11 +7,6 @@ author: sainathadapa
 tag:
   - reddit
   - nodejs
-  - calibre
-  - epub
-  - mobi
-  - html
-  - ebook
 description: "long reddit thread (AMAs) -> html -> mobi"
 ---
 

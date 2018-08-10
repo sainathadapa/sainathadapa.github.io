@@ -4,12 +4,8 @@ title: "New theme 'Material' in RStudio v1.0"
 description: "Instruction for creating a new editor theme"
 category: blog
 tag:
-  - R
   - rstats
-  - RStudio
-  - material
-  - theme
-  - colorscheme
+  - rstudio
 headerImage: false
 author: sainathadapa
 ---

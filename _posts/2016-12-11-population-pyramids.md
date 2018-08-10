@@ -4,11 +4,9 @@ title: "Population pyramid charts for the States of India"
 description: "Population pyramid charts, and some observations about inter-state variation in age and sex distributions"
 category: blog
 tag:
-  - R
   - rstats
-  - population
   - demographics
-  - india
+  - ggplot
 headerImage: false
 image: "/images/states-sorted-mean-age2.svg"
 author: sainathadapa

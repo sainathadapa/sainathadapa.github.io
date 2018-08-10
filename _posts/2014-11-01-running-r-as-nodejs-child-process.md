@@ -5,7 +5,6 @@ headerImage: false
 category: blog
 tag:
   - nodejs
-  - R
   - rstats
 author: sainathadapa
 description: "A fun little script that runs R as a child process in NodeJS"

@@ -4,12 +4,8 @@ title: "Introducing stubthat"
 description: "A Stubbing framework for R"
 category: blog
 tag:
-  - R
   - rstats
-  - stub
-  - mock
   - unittest
-  - stubthat
 author: sainathadapa
 headerImage: false
 ---
