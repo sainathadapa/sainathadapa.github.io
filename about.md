@@ -18,6 +18,7 @@ Some of my projects (or that I have contributed to):
 <br>
 
 Kaggle competitions code:
+- **[Freesound General-Purpose Audio Tagging Challenge](https://github.com/sainathadapa/kaggle-freesound-audio-tagging/blob/master/README.md)**: 8th position
 - **[Carvana Image Masking Challenge](https://github.com/sainathadapa/kaggle-carvana-image-masking-challenge)** : Top 15% percent
 - **[Invasive Species Monitoring](https://github.com/sainathadapa/kaggle-invasive-species-monitoring)** : 6th position
 
