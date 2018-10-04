@@ -23,6 +23,7 @@ Shape:  (3, 2)
 var1 int64  0 NAs : 1, 2, 3
 var2 object 0 NAs : a, b, c
 ```
+<div class="breaker"></div>
 
 ### 2017-04-05 Statewise distribution of Top 100 Engineering Institutions
 
