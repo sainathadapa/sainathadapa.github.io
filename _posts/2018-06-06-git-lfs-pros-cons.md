@@ -31,6 +31,6 @@ While Git-LFS is certainly useful, there are few things to consider before movin
 1. [Git Large File Storage](https://git-lfs.github.com)
 2. [GitHub’s Large File Storage is no panacea for Open Source — quite the opposite](https://medium.com/@megastep/github-s-large-file-storage-is-no-panacea-for-open-source-quite-the-opposite-12c0e16a9a91)
 3. [GitHub help - About storage and bandwidth usage](https://help.github.com/articles/about-storage-and-bandwidth-usage/)
-4. [Pricing | Bitbucket](https://bitbucket.org/product/pricing?tab=cloud)
-5. [Products Full Feature Comparison | GitLab](https://about.gitlab.com/pricing/self-hosted/feature-comparison/)
+4. [Pricing - Bitbucket](https://bitbucket.org/product/pricing?tab=cloud)
+5. [Products Full Feature Comparison - GitLab](https://about.gitlab.com/pricing/self-hosted/feature-comparison/)
 6. [Current limitations for Git LFS with Bitbucket](https://confluence.atlassian.com/bitbucket/current-limitations-for-git-lfs-with-bitbucket-828781638.html)
