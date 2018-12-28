@@ -15,6 +15,7 @@ Some of my projects (or that I have contributed to):
 - **[Kaggle Freesound General-Purpose Audio Tagging Challenge](https://github.com/sainathadapa/kaggle-freesound-audio-tagging/blob/master/README.md)**: 8th position
 - **[Hackathon on Image Recognition, Gemeente Amsterdam](https://github.com/sainathadapa/ams-hackathon)**: 1st position; [Youtube video about the hackathon](https://www.youtube.com/watch?v=3rpcvFoQ8s8)
 - **[Lightning talk at PyData Amsterdam 2018](https://youtu.be/kmcHaZ5I81Y?t=1010)**
+- **[Added basic Telugu support to spaCy](https://github.com/explosion/spaCy/pull/2751)**
 
 ## 2017
 - **[Kaggle Carvana Image Masking Challenge](https://github.com/sainathadapa/kaggle-carvana-image-masking-challenge)** : Top 15% percent
