@@ -11,6 +11,9 @@ In this blog, I frequently write about the scripts that I create, either to auto
 
 Some of my projects (or that I have contributed to):
 
+## 2019
+- **[Sequential Skip Prediction Challenge](https://github.com/sainathadapa/spotify-sequential-skip-prediction)**: 7th position. Part of the [WSDM Cup 2019](http://www.wsdm-conference.org/2019/wsdm-cup-2019.php).
+
 ## 2018
 - **[Kaggle Freesound General-Purpose Audio Tagging Challenge](https://github.com/sainathadapa/kaggle-freesound-audio-tagging/blob/master/README.md)**: 8th position
 - **[Hackathon on Image Recognition, Gemeente Amsterdam](https://github.com/sainathadapa/ams-hackathon)**: 1st position; [Youtube video about the hackathon](https://www.youtube.com/watch?v=3rpcvFoQ8s8)
