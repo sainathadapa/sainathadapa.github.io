@@ -1,6 +1,17 @@
 <div class="item {% if post.star %}star{% endif %}">
-    <a class="url" href="{{ site.url }}{{ post.url }}">
-        <aside class="date"><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%Y-%m-%d" }}</time></aside>
-        <h3 class="title">{{ post.title }}</h3>
-    </a>
+  <a class="url" href="{{ site.url }}{{ post.url }}">
+    <aside class="date">
+      <time datetime="{{ post.date | date:"%d-%m-%Y" }}">
+        {% assign day = post.date | date: "%-d"  %}
+        {% case day %}
+          {% when '1' or '21' or '31' %}{{ day }}<sup>st</sup>
+          {% when '2' or '22' %}{{ day }}<sup>nd</sup>
+          {% when '3' or '23' %}{{ day }}<sup>rd</sup>
+          {% else %}{{ day }}<sup>th</sup>
+        {% endcase %}
+        {{ post.date | date: " %b, %Y" }}
+      </time>
+    </aside>
+    <h3 class="title">{{ post.title }}</h3>
+  </a>
 </div>
