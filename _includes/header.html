@@ -1,9 +1,4 @@
-{% if page.title == "Home"
-   or page.title == "Blog"
-   or page.title == "Projects"
-   or page.title == "Tags"
-   or page.title == "About"
-%}{% assign showHeader = true %}{% endif %}
+{% assign showHeader = true %}
 
 {% if showHeader == true %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
