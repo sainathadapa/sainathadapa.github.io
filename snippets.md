@@ -14,7 +14,11 @@ author: sainathadapa
 
 <div class="breaker"></div>
 
-### 2018-04-30 Crude implementation of dplyr's glimpse function in Python
+### 5th Jul, 2018 - Adulting is hard
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I share similar feelings:<br>1. Why am I not solving harder and more interesting problems. <br>2. argh! why am I not able to figure this problem! <a href="https://t.co/VUGz1MIEGB">https://t.co/VUGz1MIEGB</a></p>&mdash; Sainath Adapa (@sainathadapa) <a href="https://twitter.com/sainathadapa/status/1014795655339012096?ref_src=twsrc%5Etfw">July 5, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 30th Apr, 2018 - Crude implementation of dplyr's glimpse function in Python
 I like the R's `str` function, or better the dplyr's `glimpse` function. I tried to replicate most of the functionality in this function: [gist.github.com/sainathadapa/08c1028c92684fe1ec89ecb5d5629a57](https://gist.github.com/sainathadapa/08c1028c92684fe1ec89ecb5d5629a57). Sample output from the function:
 ```
 In [3]: df = pd.DataFrame({'var1': [1, 2, 3], 'var2': ['a', 'b', 'c']})
@@ -25,14 +29,14 @@ var2 object 0 NAs : a, b, c
 ```
 <div class="breaker"></div>
 
-### 2017-04-05 Statewise distribution of Top 100 Engineering Institutions
+### 5th Apr, 2017 - Statewise distribution of Top 100 Engineering Institutions
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Statewise distribution of Top 100 Engineering Institutions<a href="https://t.co/cWlsMDdcq2">https://t.co/cWlsMDdcq2</a> <a href="https://t.co/9hr9FGt8ab">pic.twitter.com/9hr9FGt8ab</a></p>&mdash; Sainath Adapa (@sainathadapa) <a href="https://twitter.com/sainathadapa/status/849608950601461760">April 5, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div class="breaker"></div>
 
-### 2017-02-17 Failed attempt at plotting import-export relationships among Indian states
+### 17th Feb, 2017 - Failed attempt at plotting import-export relationships among Indian states
 
 <a href="/images/import-export.jpg" target="_blank"><img src="/images/import-export.jpg" alt="import-export"></a>
 
@@ -40,12 +44,12 @@ I found the above table from the [Economic Survey 2016-17](http://indiabudget.ni
 
 <div class="breaker"></div>
 
-### 2017-02-17 Generating a consolidated RSS feed from various sources
+### 17th Feb, 2017 - Generating a consolidated RSS feed from various sources
 I wrote a script that creates a consolidated feed from various subreddits and other RSS/Atom feeds (I use Google news feeds for specific topics), ensuring that the feed doesn't have duplicate entries. [Here is the source code.](https://github.com/sainathadapa/generate-rss-feed)
 
 <div class="breaker"></div>
 
-### 2016-10-30 Simple S3 class for circular objects such as hour, day of week, etc
+### 30th Oct, 2016 - Simple S3 class for circular objects such as hour, day of week, etc
 For some objective that I long forgotten, I needed a hour-minute (without the date part) object, which would wrap back to 00:00 after 23:59. I managed with using POSIXct objects when I actually needed this class. Today, I wrote a small S3 class implementation of it, in case I needed it at a later time. Head over to [README](https://github.com/sainathadapa/circularObjs) page, if you want to know the further details.
 
 
