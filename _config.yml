@@ -7,7 +7,7 @@ description: 'Random observations, notes and scripts'
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture:
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -32,6 +32,7 @@ twitter: sainathadapa
 linkedin: sainathadapa
 github: sainathadapa
 medium: sainathadapa
+stackoverflow: 2585817/sainath-adapa
 
 authors:
     sainathadapa:
