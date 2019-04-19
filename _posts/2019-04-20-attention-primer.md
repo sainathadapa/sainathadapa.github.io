@@ -16,4 +16,4 @@ When I'm learning a new topic, I used to take notes. The very act of writing hel
 Recently, I was interested in Attention mechanisms and came across this impressive project: [greentfrapp/attention-primer](https://github.com/greentfrapp/attention-primer). The project starts with a simple implementation of the Scaled Dot-Product Attention mechanism, demonstrated on a toy example. It then proceeds to add and demonstrate the other basic units of the [Transformer architecture](https://arxiv.org/abs/1706.03762). The code and the theory is nicely explained, and I encourage others to go through the 4 Tasks. Thanks [@greentfrapp](https://github.com/greentfrapp)!
 
 
-The project uses TensorFlow (<1.0). To support my learning, I converted the TensorFlow code to PyTorch. The fork with PyTorch code is here: [https://github.com/sainathadapa/attention-primer-pytorch](sainathadapa/attention-primer-pytorch).
+The project uses TensorFlow (<1.0). To support my learning, I converted the TensorFlow code to PyTorch. The fork with PyTorch code is here: [sainathadapa/attention-primer-pytorch](https://github.com/sainathadapa/attention-primer-pytorch).
