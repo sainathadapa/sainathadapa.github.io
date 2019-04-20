@@ -6,7 +6,8 @@ author: sainathadapa
 tag:
   - kaggle
   - deep-learning
-  - machine-learning
+  - keras
+  - tensorflow
 category: blog
 description: ""
 ---
