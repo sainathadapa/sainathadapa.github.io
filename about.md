@@ -3,15 +3,12 @@ title: About
 layout: page
 ---
 
-# About the blog
-
-In this blog, I frequently write about the scripts that I create, either to automate stuff on my computer, or to improve my productivity. I am a Data Scientist by profession, and so I also write posts related to that field.
-
 # Projects
 
 Some of my projects (or that I have contributed to):
 
 ## 2019
+- **[DCASE 2019 - Task 5 - Urban Sound Tagging](https://github.com/sainathadapa/urban-sound-tagging)**: Waiting for official results
 - **[Sequential Skip Prediction Challenge](https://github.com/sainathadapa/spotify-sequential-skip-prediction)**: 7th position. [Workshop paper](https://github.com/sainathadapa/spotify-sequential-skip-prediction/blob/master/workshop-paper-source/paper.pdf) was submitted to the [WSDM Cup 2019](http://www.wsdm-conference.org/2019/wsdm-cup-2019.php) and was selected for poster presentation.
 - **[sainathadapa/attention-primer-pytorch](https://github.com/sainathadapa/attention-primer-pytorch)**: Some toy tasks/experiments to illustrate the concept of attention in machine learning, with heavy reference to Vaswani et al. (2017). Fork of `greentfrapp/attention-primer` with Tensorflow code replaced with PyTorch. All credit goes to `@greentfrapp`.
 
@@ -32,6 +29,9 @@ Some of my projects (or that I have contributed to):
 - **[i3-wm-multi-disp-scripts](https://github.com/sainathadapa/i3-wm-multi-disp-scripts)** : Scripts to naviage a multi-display setup in I3 tiling window manager
 - **[ogdindiar](https://github.com/steadyfish/ogdindiar)**: R package to access data from Open Government Data Platform - India
 
+# About the blog
+
+In this blog, I frequently write about the scripts that I create, either to automate stuff on my computer, or to improve my productivity. I am a Data Scientist by profession, and so I also write posts related to that field.
 
 # Contact
 
