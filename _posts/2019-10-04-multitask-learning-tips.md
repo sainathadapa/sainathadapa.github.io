@@ -21,5 +21,5 @@ This is a summary of the talk about Multi-task learning by Rich Caruana at ICML 
 11. Not all tasks train at the same rate. Ideally we want all tasks to peak at about the same time, or want helper tasks to peak just before the main task. One approach is to early stop each task individually, making a snapshot of net at each task's peak epoch. Another approach is to retrain the model after adjusting the learning rate to speed-up and slow-down tasks.
 
 References:
-- Tricks of Trade - 1: https://slideslive.com/38917666/tricks-of-the-trade-1
-- Tricks of Trade - 2: https://slideslive.com/38917691/tricks-of-trade-2
+- [Tricks of Trade - 1](https://slideslive.com/38917666/tricks-of-the-trade-1)
+- [Tricks of Trade - 2](https://slideslive.com/38917691/tricks-of-trade-2)
