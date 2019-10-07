@@ -7,7 +7,7 @@ tag:
   - ggplot
 ---
 
-[See this post for more details.](/blog/population-pyramids/)
+[See this post for more details.]({{ site.baseurl }}{% link _posts/2016-12-11-population-pyramids.md %})
 
 #### Andaman and Nicobar Islands
 <a href="/images/pop/ANDAMAN & NICOBAR ISLAND-1.svg" target="_blank" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/pop/ANDAMAN & NICOBAR ISLAND-1.svg" alt="image" /></a>
