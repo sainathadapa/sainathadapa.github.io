@@ -29,7 +29,7 @@ Here are the Population distribution charts for  the state of Andhra Pradesh (in
 </a>
 <p style="clear: both;" />
 
-You can find the graphs for all the states and union territories [here](/blog/pop-charts-all/).
+You can find the graphs for all the states and union territories [here]({{ site.baseurl }}{% link _posts/2016-12-11-pop-charts-all.md %}).
 
 # Population distribution charts for all the states, sorted by mean age:
 This chart can be helpful in understanding the variation in age mix between different states.
