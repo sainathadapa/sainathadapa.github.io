@@ -20,15 +20,6 @@ This is the plot that @hrbrmstr created (in ggplot) at the end of his post.
 I took his code, and tweaked it to get the ggplot version to be as similar as possible to the original plot. Here is what I achieved:
 ![my-plot](/images/npr-graphic-mine.png)
 
-
-Original and the ggplot version side by side:
-<figure class="half">
-  <img src="/images/npr-graphic-original.png" alt="image">
-  <img src="/images/npr-graphic-mine.png" alt="image">
-  <figcaption>Original (left) vs GGPlot (right)</figcaption>
-</figure>
-
-
 Code (some of it is taken from the @hrbrmstr's blog post):
 
 _(Code is also available at [github.com/sainathadapa](https://github.com/sainathadapa/recreate-npr-graphic-ggplot))_
