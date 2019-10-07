@@ -295,3 +295,14 @@ nav {
   }
 }
 
+/* home: post list */
+.post-list ul {
+	margin-left: 0;
+}
+.post-list ul li {
+	display: flex;
+}
+.post-meta {
+	min-width: 80px;
+	font-size: 21.6px;
+}
