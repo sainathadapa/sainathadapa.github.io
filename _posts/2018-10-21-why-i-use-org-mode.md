@@ -21,7 +21,7 @@ Like WorkFlowy, you can have nested notes in org-mode, and can easily fold/unfol
 ### 3. Images in notes
 With `org-download` plugin, it is easy to capture screenshots, save and display them in the notes.
 
-### 4. Special characters, Superscript and Subscript
+### 4. Special characters, superscript and subscript
 It it easy to write special characters - for example, you can write `\lambda` to display the λ character. Superscript can be achieved by inserting `^` between characters or words, for example `A^2`. Similarly, subscript can be done by inserting underscore between words.
 
 
