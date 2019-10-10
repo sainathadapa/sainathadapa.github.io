@@ -28,7 +28,7 @@ It it easy to write special characters - for example, you can write `\lambda` to
 ### 5. Vim editing
 I'm a big proponent of Vim, and use it everywhere even outside of programming. With Vim, you can quickly jump to different parts of text, move chunks of text, and edit text quite easily, all from the keyboard without using mouse.
 
-### Export
+### 6. Export
 You can export org files to Markdown, HTML, PDF or a myriad of other formats.
 
 ---
