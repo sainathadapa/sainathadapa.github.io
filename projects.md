@@ -22,7 +22,7 @@ Some of my projects (or that I have contributed to):
 
 ## 2017
 - [Kaggle Carvana Image Masking Challenge](https://github.com/sainathadapa/kaggle-carvana-image-masking-challenge) : Top 15% percent
-- [ggthemr](https://github.com/cttobin/ggthemr) : Themes for ggplot2. I'm not the author of the package although I maintain it at the moment.
+- [ggthemr](https://github.com/cttobin/ggthemr) : Themes for ggplot2. ~I'm not the author of the package although I maintain it at the moment.~
 - [Kaggle Invasive Species Monitoring](https://github.com/sainathadapa/kaggle-invasive-species-monitoring) : 6th position
 
 ## 2016
